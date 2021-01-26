@@ -1,0 +1,37 @@
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTinhToan.resources
+C:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXoSo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTinhToan.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmXoSo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TT.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmClient.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\XO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmServer.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotepadRo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNotepad.resources

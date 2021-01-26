@@ -1,0 +1,29 @@
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\GhepHinh.exe.config
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\GhepHinh.exe
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\GhepHinh.pdb
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.AboutBox.resources
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.MainForm.resources
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.Properties.Resources.resources
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.csproj.GenerateResource.Cache
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.exe
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.pdb
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\BSoftLibs.dll
+c:\Users\Admin\Downloads\Compressed\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\BSoftLibs.pdb
+d:\Source\C#\Game_Ghep_Hinh\Ghep_Hinh\bin\Debug\GhepHinh.exe.config
+d:\Source\C#\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.exe
+d:\Source\C#\Game_Ghep_Hinh\Ghep_Hinh\obj\x86\Debug\GhepHinh.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\GhepHinh.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\GhepHinh.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\GhepHinh.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\BSoftLibs.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.AboutBox.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.MainForm.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Ghep_Hinh\obj\x86\Debug\GhepHinh.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\bin\Debug\Chat_client.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\bin\Debug\Chat_client.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\bin\Debug\Chat_client.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.ChatClient.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_client\obj\Debug\Chat_client.csprojResolveAssemblyReference.cache

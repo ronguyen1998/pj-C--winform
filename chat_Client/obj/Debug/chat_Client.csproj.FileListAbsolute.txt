@@ -1,0 +1,27 @@
+D:\C#\chat_Client\bin\Debug\chat_Client.exe.config
+D:\C#\chat_Client\bin\Debug\chat_Client.exe
+D:\C#\chat_Client\bin\Debug\chat_Client.pdb
+D:\C#\chat_Client\obj\Debug\chat_Client.Properties.Resources.resources
+D:\C#\chat_Client\obj\Debug\chat_Client.csproj.GenerateResource.Cache
+D:\C#\chat_Client\obj\Debug\chat_Client.exe
+D:\C#\chat_Client\obj\Debug\chat_Client.pdb
+D:\C#\chat_Client\obj\Debug\chat_Client.FrmClient.resources
+D:\C#\chat_Client\obj\Debug\chat_Client.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\bin\Debug\chat_Client.exe.config
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\bin\Debug\chat_Client.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\bin\Debug\chat_Client.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.FrmClient.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.Properties.Resources.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\chat_Client\obj\Debug\chat_Client.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\bin\Debug\chat_Client.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\bin\Debug\chat_Client.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\bin\Debug\chat_Client.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.FrmClient.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\chat_Client\obj\Debug\chat_Client.csproj.GenerateResource.Cache

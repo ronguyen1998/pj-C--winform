@@ -1,0 +1,27 @@
+D:\C#\Chat_Sever\bin\Debug\Chat_Sever.exe.config
+D:\C#\Chat_Sever\bin\Debug\Chat_Sever.exe
+D:\C#\Chat_Sever\bin\Debug\Chat_Sever.pdb
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.csprojResolveAssemblyReference.cache
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.Properties.Resources.resources
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.csproj.GenerateResource.Cache
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.exe
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.pdb
+D:\C#\Chat_Sever\obj\Debug\Chat_Sever.FrmSever.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\bin\Debug\Chat_Sever.exe.config
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\bin\Debug\Chat_Sever.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\bin\Debug\Chat_Sever.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.FrmSever.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.Properties.Resources.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\Chat_Sever\obj\Debug\Chat_Sever.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\bin\Debug\Chat_Sever.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\bin\Debug\Chat_Sever.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\bin\Debug\Chat_Sever.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.FrmSever.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\Chat_Sever\obj\Debug\Chat_Sever.csproj.GenerateResource.Cache

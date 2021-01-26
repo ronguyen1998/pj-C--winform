@@ -1,0 +1,36 @@
+D:\C#\bai5\bai5\bin\Debug\bai5.exe.config
+D:\C#\bai5\bai5\bin\Debug\bai5.exe
+D:\C#\bai5\bai5\bin\Debug\bai5.pdb
+D:\C#\bai5\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache
+D:\C#\bai5\bai5\obj\Debug\bai5.Properties.Resources.resources
+D:\C#\bai5\bai5\obj\Debug\bai5.csproj.GenerateResource.Cache
+D:\C#\bai5\bai5\obj\Debug\bai5.exe
+D:\C#\bai5\bai5\obj\Debug\bai5.pdb
+D:\C#\bai5\bai5\obj\Debug\bai5.Notepad.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\bin\Debug\bai5.exe.config
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\bin\Debug\bai5.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\bin\Debug\bai5.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.Notepad.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.Properties.Resources.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai5\bai5\obj\Debug\bai5.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\bin\Debug\bai5.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\bin\Debug\bai5.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\bin\Debug\bai5.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.Notepad.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai5\bai5\obj\Debug\bai5.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\bin\Debug\bai5.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\bin\Debug\bai5.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\bin\Debug\bai5.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.Notepad.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\NotePad\bai5\obj\Debug\bai5.csproj.GenerateResource.Cache

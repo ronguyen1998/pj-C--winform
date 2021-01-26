@@ -1,0 +1,17 @@
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\bin\Debug\baitest.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\obj\Debug\baitest.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\obj\Debug\baitest.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\bin\Debug\baitest.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\bin\Debug\baitest.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\obj\Debug\baitest.Form1.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\obj\Debug\baitest.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai4\baitest\obj\Debug\Bai4.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\bin\Debug\baitest.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\baitest.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\baitest.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\bin\Debug\baitest.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\bin\Debug\baitest.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\Bai4.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\baitest.frXepHinh.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\baitest.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\gamexephinh\baitest\obj\Debug\Bai4.csproj.GenerateResource.Cache

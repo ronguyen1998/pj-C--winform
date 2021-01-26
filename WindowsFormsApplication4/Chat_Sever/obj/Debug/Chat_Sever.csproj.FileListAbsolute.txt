@@ -1,0 +1,9 @@
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\bin\Debug\Chat_Sever.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\bin\Debug\Chat_Sever.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\bin\Debug\Chat_Sever.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\Chat_Sever\obj\Debug\Chat_Sever.ChatSever.resources

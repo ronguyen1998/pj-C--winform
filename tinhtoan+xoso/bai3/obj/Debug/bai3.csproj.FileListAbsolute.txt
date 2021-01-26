@@ -1,0 +1,46 @@
+D:\LTWindown\bai3\bai3\bin\Debug\bai3.exe.config
+D:\LTWindown\bai3\bai3\bin\Debug\bai3.exe
+D:\LTWindown\bai3\bai3\bin\Debug\bai3.pdb
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.Form1.resources
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.Cache
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.exe
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.pdb
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.xoso.resources
+D:\LTWindown\bai3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+D:\C#\bai3\bai3\bin\Debug\bai3.exe.config
+D:\C#\bai3\bai3\obj\Debug\bai3.exe
+D:\C#\bai3\bai3\obj\Debug\bai3.pdb
+D:\C#\bai3\bai3\bin\Debug\bai3.exe
+D:\C#\bai3\bai3\bin\Debug\bai3.pdb
+D:\C#\bai3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+D:\C#\bai3\bai3\obj\Debug\bai3.Form1.resources
+D:\C#\bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+D:\C#\bai3\bai3\obj\Debug\bai3.xoso.resources
+D:\C#\bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.Cache
+D:\C#\bai3\bai3\obj\Debug\bai3.TinhToan.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\bin\Debug\bai3.exe.config
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\bin\Debug\bai3.exe
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\bin\Debug\bai3.pdb
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.Form1.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.TinhToan.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.xoso.resources
+C:\Users\HP\Downloads\C#-20191129T095957Z-001\C#\bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\bin\Debug\bai3.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\bin\Debug\bai3.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\bin\Debug\bai3.pdb
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.Form1.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.TinhToan.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.xoso.resources
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\bai1+bai3\bai3\obj\Debug\bai3.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\tinhtoan+xoso\bai3\bin\Debug\bai3.exe.config
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\tinhtoan+xoso\bai3\obj\Debug\bai3.exe
+C:\Users\KimAnh\Documents\Visual Studio 2013\Projects\tinhtoan+xoso\bai3\obj\Debug\bai3.pdb
